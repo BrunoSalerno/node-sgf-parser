@@ -1,0 +1,24 @@
+{
+  "name": "node-sgf-parser",
+  "version": "0.0.1",
+  "description": "A nodejs sgf files parser",
+  "main": "node-sgf-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoSalerno/node-sgf-parser.git"
+  },
+  "keywords": [
+    "node",
+    "sgf",
+    "parser",
+    "nodejs"
+  ],
+  "author": "BrunoSalerno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrunoSalerno/node-sgf-parser/issues"
+  }
+}
